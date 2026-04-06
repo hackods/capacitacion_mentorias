@@ -1,5 +1,5 @@
 ---
-title: "Capacitación — Personas mentoras"
+title: "Capacitación para mentorías"
 subtitle: "HackODS UNAM 2026"
 lang: es
 author:
@@ -7,6 +7,14 @@ author:
   - Maricarmen
   - Luis Miguel
   - Guillermo
+---
+
+##  {background-image="imagenes/hackods.png" background-size="contain" background-color="#ffffff"}
+
+---
+
+##  {background-image="imagenes/comite.png" background-size="contain" background-color="#ffffff"}
+
 ---
 
 ## Agenda {.smaller}
@@ -341,10 +349,28 @@ Ayuda a pulir y potenciar lo que los equipos ya tienen.
 
 ---
 
+## Después de cada sesión: retroalimentación
+
+Les agradeceríamos que al terminar cada mentoría llenen un **breve formulario** con:
+
+1. **Equipo asignado** y **su nombre**
+2. Tres preguntas de opción múltiple:
+    - ¿El equipo tenía una pregunta de investigación clara?
+    - ¿Los datos que presentaron respaldan su narrativa?
+    - ¿El enfoque del equipo tiene potencial de impacto?
+3. Una **recomendación escrita** que llegará directamente al equipo mentoreado
+
+::: {.callout-important}
+La recomendación escrita es muy valiosa para los equipos. Es lo que se llevan de la sesión con ustedes.
+:::
+
+---
+
 ## Próximos pasos
 
 - [ ] Revisen su correo: agenda personalizada con equipo(s), horario y Zoom
 - [ ] Si quieren más contexto sobre la evaluación: [rúbrica de corte](https://hackods.github.io/rubrica20.html)
+- [ ] Al terminar cada sesión, llenen el formulario de retroalimentación
 - [ ] Dudas: [hackods@ier.unam.mx](mailto:hackods@ier.unam.mx)
 - [ ] Esta grabación estará disponible para repaso asíncrono
 
