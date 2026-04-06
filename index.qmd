@@ -1,7 +1,7 @@
 ---
 title: "Capacitación — Personas mentoras"
 subtitle: "HackODS UNAM 2026"
-date: "6 de abril de 2026"
+lang: es
 author:
   - Daniela
   - Maricarmen
