@@ -1,0 +1,375 @@
+---
+title: "Capacitación — Personas mentoras"
+subtitle: "HackODS UNAM 2026"
+date: "6 de abril de 2026"
+author:
+  - Daniela
+  - Maricarmen
+  - Luis Miguel
+  - Guillermo
+---
+
+## Agenda {.smaller}
+
+| Bloque | Tema | Tiempo |
+|--------|------|--------|
+| 0 | Bienvenida y agenda | 5 min |
+| 1 | ¿Qué es HackODS? | 10 min |
+| 2 | El producto final: el tablero interactivo | 10 min |
+| 3 | En qué consiste la mentoría | 15 min |
+| 4 | Dinámica práctica de la sesión | 15 min |
+| 5 | Decálogo de la persona mentora | 10 min |
+| 6 | Preguntas, cierre y próximos pasos | 20 min |
+
+::: {.notes}
+Esta sesión queda grabada para quienes no pudieran conectarse en vivo.
+:::
+
+# Bloque 1 {background-color="#1a5276"}
+
+## ¿Qué es HackODS?
+
+---
+
+## HackODS en una frase
+
+> El **primer hackatón de la UNAM** dedicado a transformar datos abiertos en narrativas visuales sobre los Objetivos de Desarrollo Sostenible.
+
+---
+
+## Los ODS como hilo conductor
+
+- Los 17 Objetivos de Desarrollo Sostenible de la ONU son el marco de referencia
+- Los equipos eligen uno o varios ODS
+- Construyen una **historia con datos** que visibilice el avance —o retroceso— de México
+
+---
+
+## La escala
+
+| | | |
+|:---:|:---:|:---:|
+| **65** | **~200** | **20** |
+| equipos | personas | finalistas |
+
+: {.striped tbl-colwidths="[33,34,33]"}
+
+Comunidad multidisciplinaria: ingeniería, ciencias sociales, humanidades...
+
+---
+
+## El recorrido formativo
+
+Los equipos ya pasaron por **4 semanas de capacitación**:
+
+- Python / Pandas
+- Visualización con Plotly
+- Storytelling con datos
+- Git / GitHub y Quarto
+
+. . .
+
+**Sus mentores no son sus primeros maestros; son quizás los más importantes.**
+
+---
+
+## La competencia
+
+:::: {.columns}
+
+::: {.column width="22%"}
+### 65 equipos
+Mentorías etapa 1
+:::
+
+::: {.column width="4%"}
+&rarr;
+:::
+
+::: {.column width="22%"}
+### Entrega
+10 de abril
+:::
+
+::: {.column width="4%"}
+&rarr;
+:::
+
+::: {.column width="22%"}
+### 20 finalistas
+12 de abril
+:::
+
+::: {.column width="4%"}
+&rarr;
+:::
+
+::: {.column width="22%"}
+### Evento final
+23–24 de abril
+:::
+
+::::
+
+---
+
+## El espíritu
+
+> Los datos abiertos cobran sentido cuando se comparten, se cuestionan y se convierten en **historias que importan**.
+
+Herramientas de código abierto. Filosofía abierta.
+
+# Bloque 2 {background-color="#1a5276"}
+
+## El producto final: el tablero interactivo
+
+---
+
+## ¿Qué es un tablero en este contexto?
+
+- **No** es una infografía estática
+- **No** es un reporte de Word
+- **Sí** es un documento web interactivo que cuenta una historia usando datos
+
+. . .
+
+Tiene visualizaciones dinámicas y una estructura narrativa que lleva al lector de una pregunta a una conclusión.
+
+---
+
+## De los datos abiertos a la narrativa
+
+**Datos abiertos** &rarr; **ODS** &rarr; **Historia**
+
+Los equipos parten de fuentes públicas, las conectan con un Objetivo de Desarrollo Sostenible y construyen una narrativa visual que le dé sentido a los datos.
+
+**Fuentes de datos:** INEGI, ONU, datos.gob.mx, Portal de Datos UNAM, entre otras
+
+---
+
+## Lo que van a ver
+
+Cada equipo llega con una **presentación breve de 3 diapositivas** (PDF, Google Slides o similar). No un tablero funcional ni gráficas interactivas. Es un **bosquejo**, no un producto terminado.
+
+---
+
+## Las 3 diapositivas del equipo
+
+| | Contenido |
+|---|-----------|
+| **1 — Equipo y ODS** | Nombre, integrantes, ODS elegido(s) y por qué les importa |
+| **2 — Pregunta, datos y enfoque** | Pregunta guía, qué quieren visibilizar, fuentes de datos y cómo se relacionan con su ODS |
+| **3 — Dudas** | En qué parte de su historia necesitan más claridad o no saben cómo enfocar |
+
+. . .
+
+El tablero es el vehículo; **la historia es lo que importa**.
+
+# Bloque 3 {background-color="#1a5276"}
+
+## En qué consiste la mentoría
+
+---
+
+## Lo que la mentoría SÍ es
+
+<br>
+
+
+- Una conversación para **fortalecer su historia y su enfoque narrativo**
+- Un espacio para recibir **retroalimentación sobre la coherencia** entre pregunta, datos y ODS
+- Una oportunidad para **afinar su bosquejo** antes de la entrega final
+- La idea es **orientar**, no enseñar.
+
+---
+
+## Lo que la mentoría NO es
+
+<br>
+
+- **No es soporte técnico** para código, tableros ni herramientas
+- La persona mentora **no resuelve problemas técnicos** ni dice qué gráficas usar
+- **No dice qué hacer**; ayuda a ver con más claridad lo que ya están construyendo
+
+. . .
+
+**Para la persona mentora:** si un equipo pide ayuda con código o herramientas, pueden redirigirlos gentilmente: _"Eso está fuera del alcance de esta sesión; enfoquémonos en tu historia."_ Los equipos fueron avisados; no será sorpresa.
+
+---
+
+## Estructura del proceso
+
+```{mermaid}
+%%| fig-width: 10
+flowchart LR
+    A["Etapa 1<br>6–10 abril"] -->|65 equipos| B["Corte<br>12 abril"]
+    B -->|20 equipos| C["Etapa 2<br>13–17 abril"]
+    C --> D["Evento final<br>23–24 abril"]
+
+    style A fill:#2ecc71,color:#fff
+    style C fill:#3498db,color:#fff
+    style D fill:#e74c3c,color:#fff
+```
+
+Cada equipo tiene derecho a **una mentoría por etapa**.
+
+# Bloque 4 {background-color="#1a5276"}
+
+## Dinámica práctica de la sesión
+
+---
+
+## Antes de la sesión
+
+1. Recibirán su **agenda personalizada**: equipo, horario y enlace de Zoom
+2. Si desean revisar el calendario lo pueden hacer [aqui](https://hackods.github.io/mentorias.html)
+3. Comunicarse con el equipe HackODS por cualquier problema
+
+---
+
+## Recuerden: la diapositiva 3 es clave
+
+::: {.callout-tip}
+La diapositiva de **dudas** es la más valiosa. Partir de las preguntas del equipo —en lugar de imponer una agenda propia— hace la sesión mucho más productiva.
+:::
+
+
+---
+
+## Asistencia del equipo
+
+- Debe presentarse **al menos 1 integrante**; se recomienda todo el equipo
+- La **inasistencia completa** se toma en cuenta en la evaluación
+- Es posible que algún equipo **no se presente**
+
+. . .
+
+**Si llega solo parte del equipo:** la sesión procede normalmente.
+
+**Si no aparece nadie:** les pedimos **10 minutos de tolerancia**. El comité organizador estará atento y, si el equipo no llega, nos incorporaremos a la sesión para informarles.
+
+---
+
+## Los 30 minutos, paso a paso
+
+| Tiempo | Actividad |
+|-------:|-----------|
+| 0–3 | Presentación de las personas tutoras |
+| 3–8 | El equipo presenta su historia  |
+| 8–20 | Las personas tutora preguntan, el equipo reflexiona |
+| 20–27 | Retroalimentación: 2–3 observaciones concretas y accionables |
+| 27–30 | Cierre: el equipo resume los ajustes que hará |
+
+: {tbl-colwidths="[15,85]"}
+
+::: {.callout-note}
+Estos tiempos son una **sugerencia**. Cada sesión es distinta; adáptenlos según la dinámica del equipo.
+:::
+
+---
+
+## Preguntas orientadoras
+
+Si la conversación se atasca, estas preguntas ayudan:
+
+- *¿Cuál es la pregunta que guía su historia?*
+- *Si alguien ve su tablero sin explicaciones, ¿qué va a entender?*
+- *¿Por qué estos datos y no otros?*
+- *¿A quién le importa lo que están contando? ¿Quién es su audiencia?*
+- *¿Qué es lo que más les genera duda de su propio enfoque?*
+
+
+<!-- 
+## Logística {.smaller}
+
+**Horarios de la etapa 1:**
+
+| Sesión | Día | Horario |
+|--------|-----|---------|
+| S01 | Martes 7 de abril | 18:00–20:00 h |
+| S02 | Miércoles 8 de abril | 18:00–20:00 h |
+| S03 | Viernes 10 de abril | 12:00–14:00 h |
+
+- Cada sesión tiene 4 turnos de 30 minutos (ej: 18:00, 18:30, 19:00, 19:30)
+- Contacto durante las sesiones: [hackods@ier.unam.mx](mailto:hackods@ier.unam.mx) -->
+
+# Bloque 5 {background-color="#1a5276"}
+
+## Decálogo de la persona mentora
+
+
+## 1–5
+
+1. **Voluntario por convicción, no por circunstancia.**
+Se involucra porque cree en el valor de apoyar a otros.
+
+2. **Colabora activamente y comparte su experiencia.**
+Suma con su conocimiento y facilita el aprendizaje colectivo.
+
+3. **Guía con preguntas que impulsan la reflexión.**
+Más que dar respuestas, ayuda a que los equipos se cuestionen.
+
+4. **Ofrece comentarios concisos y enfocados.**
+Retroalimentación clara y accionable.
+
+5. **El conocimiento es compartido, y el mentor lo facilita.**
+Un ambiente donde el conocimiento fluye libremente.
+
+---
+
+## 6–10
+
+6. **Respeta el espacio de los equipos.**
+Reconoce cuándo ofrecer apoyo y cuándo dejar avanzar.
+
+7. **Fomenta el crecimiento con actitud positiva.**
+Su contribución fortalece las ideas y el trabajo.
+
+8. **Se mantiene imparcial, neutral y solidario.**
+Facilitador equilibrado, sin imponer opiniones.
+
+9. **Aprende constantemente de sus colegas.**
+Valora la colaboración y está dispuesto a mejorar.
+
+10. **Facilita la evolución de ideas sin imponer las suyas.**
+Ayuda a pulir y potenciar lo que los equipos ya tienen.
+
+
+# Bloque 6 {background-color="#1a5276"}
+
+## Preguntas, cierre y próximos pasos
+
+---
+
+## Próximos pasos
+
+- [ ] Revisen su correo: agenda personalizada con equipo(s), horario y Zoom
+- [ ] Si quieren más contexto sobre la evaluación: [rúbrica de corte](https://hackods.github.io/rubrica20.html)
+- [ ] Dudas: [hackods@ier.unam.mx](mailto:hackods@ier.unam.mx)
+- [ ] Esta grabación estará disponible para repaso asíncrono
+
+---
+
+## Recursos {.smaller}
+
+| Recurso | Enlace |
+|---------|--------|
+| Sitio oficial | [hackods.unam.mx](https://www.hackods.unam.mx) |
+| Rúbrica de corte | [hackods.github.io/rubrica20.html](https://hackods.github.io/rubrica20.html) |
+| Instrucciones a equipos | [hackods.github.io/mentorias.html](https://hackods.github.io/mentorias.html) |
+| Política de IA | [hackods.github.io/declaratoriaIA.html](https://hackods.github.io/declaratoriaIA.html) |
+| Contacto | [hackods@ier.unam.mx](mailto:hackods@ier.unam.mx) |
+
+---
+
+## {background-color="#1a5276"}
+
+::: {.r-fit-text}
+Gracias
+:::
+
+Lo que hacen al dar su tiempo y experiencia a estos equipos no tiene precio.
+
+Cada conversación de 30 minutos puede cambiar el rumbo de un proyecto.
+
+**Nos vemos en las sesiones.**

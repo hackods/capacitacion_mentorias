@@ -1,0 +1,15 @@
+project:
+  type: website
+  output-dir: docs
+
+format:
+  revealjs:
+    theme: [default, custom.scss]
+    slide-number: true
+    hash-type: number
+    center: true
+    transition: fade
+    logo: https://www.hackods.unam.mx/favicon.ico
+    footer: "HackODS UNAM 2026 · Capacitación mentores"
+    width: 1280
+    height: 720

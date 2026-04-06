@@ -1,0 +1,31 @@
+/*-- scss:defaults --*/
+
+$font-family-sans-serif: "Atkinson Hyperlegible", "Segoe UI", Roboto, sans-serif;
+$presentation-heading-color: #1a5276;
+$link-color: #2980b9;
+$body-color: #2c3e50;
+
+/*-- scss:rules --*/
+
+.reveal .slide-number {
+  font-size: 0.6em;
+}
+
+.reveal blockquote {
+  border-left: 4px solid #2ecc71;
+  padding-left: 1em;
+  font-style: italic;
+  background: rgba(46, 204, 113, 0.05);
+}
+
+.reveal .callout-note {
+  border-left-color: #3498db;
+}
+
+.reveal .callout-important {
+  border-left-color: #e74c3c;
+}
+
+section.center h2 {
+  text-align: center;
+}
