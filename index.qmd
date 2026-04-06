@@ -19,15 +19,15 @@ author:
 
 ## Agenda {.smaller}
 
-| Bloque | Tema | Tiempo |
-|--------|------|--------|
-| 0 | Bienvenida y agenda | 5 min |
-| 1 | ¿Qué es HackODS? | 10 min |
-| 2 | El producto final: el tablero interactivo | 10 min |
-| 3 | En qué consiste la mentoría | 15 min |
-| 4 | Dinámica práctica de la sesión | 15 min |
-| 5 | Decálogo de la persona mentora | 10 min |
-| 6 | Preguntas, cierre y próximos pasos | 20 min |
+| Bloque | Tema |
+|--------|------|
+| 0 | Bienvenida y agenda |
+| 1 | ¿Qué es HackODS? |
+| 2 | El producto final: el tablero interactivo |
+| 3 | En qué consiste la mentoría |
+| 4 | Dinámica práctica de la sesión |
+| 5 | Decálogo de la persona mentora |
+| 6 | Preguntas, cierre y próximos pasos |
 
 ::: {.notes}
 Esta sesión queda grabada para quienes no pudieran conectarse en vivo.
@@ -138,6 +138,7 @@ Herramientas de código abierto. Filosofía abierta.
 - **No** es una infografía estática
 - **No** es un reporte de Word
 - **Sí** es un documento web interactivo que cuenta una historia usando datos
+- **Lleva** al lector de una pregunta a tomar acciones
 
 . . .
 
@@ -394,8 +395,3 @@ La recomendación escrita es muy valiosa para los equipos. Es lo que se llevan d
 Gracias
 :::
 
-Lo que hacen al dar su tiempo y experiencia a estos equipos no tiene precio.
-
-Cada conversación de 30 minutos puede cambiar el rumbo de un proyecto.
-
-**Nos vemos en las sesiones.**
